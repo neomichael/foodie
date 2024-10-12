@@ -2,11 +2,17 @@
 Preparation before app development
 
 Development tools
+
 #Android Studio
+
 #Visual Studio Code 
+
 #Flutter extension for VS Code
+
 #Download the Flutter SDK
+
 #Install the Toolbox App
+
 
 All above SDK and .exe file suggested to add PATH into system.
 Or you'll struggle while you do trouble shooting.
